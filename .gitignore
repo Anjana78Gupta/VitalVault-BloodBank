@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 node_modules
 .env
 /client/.gitignore
+=======
+node_modules
+>>>>>>> 6fdd9a1ac407827589c994a7f6668af1cd9ebb95
